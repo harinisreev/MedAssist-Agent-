@@ -1,0 +1,8 @@
+streamlit
+openai
+langchain
+sqlalchemy
+pyodbc
+pandas
+numpy
+python-dotenv
